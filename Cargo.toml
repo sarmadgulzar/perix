@@ -2,5 +2,14 @@
 name = "perix"
 version = "0.1.0"
 edition = "2024"
+authors = ["Sarmad Gulzar"]
+description = "A Rust library for peripheral device drivers"
+license = "MIT"
+repository = "https://github.com/sarmadgulzar/perix"
+homepage = "https://github.com/sarmadgulzar/perix"
+documentation = "https://docs.rs/perix"
+readme = "README.md"
+keywords = ["embedded", "peripheral", "driver", "hal"]
+categories = ["embedded", "hardware-support", "no-std"]
 
 [dependencies]
